@@ -40,3 +40,5 @@ const words = ["The", "early", "bird", "might", "get", "the", "worm", "but", "th
 
 console.log(words.reduce(
     (sentence, next) => sentence + " " + next))
+
+    // change
